@@ -13,7 +13,8 @@ This course was written for and recorded by [Frontend Masters][fem].
   2. React Tooling
   3. Parcel
   4. JSX
-  5. Routing
-  6. Forms
-  7. Context
-  8. Portals
+  5. Hooks
+  6. Routing
+  7. Forms
+  8. Context
+  9. Portals
